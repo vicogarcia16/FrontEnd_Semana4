@@ -1,3 +1,3 @@
-# Pokedex made with HTML, CSS and JavaScript
+# FrontEnd_Semana4
 
-You can get the data from the [PokeAPI](https://pokeapi.co/)
+Practica de JavaScript creando un pokedex conectado a [PokeAPI](https://pokeapi.co/) para sus funciones.
